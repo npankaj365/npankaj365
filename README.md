@@ -1,5 +1,7 @@
 ### 👋 Hi there, I'm Pankaj Niroula.
 
+Currently, a Ph.D. student in Computer Science at [William & Mary](https://wm.edu) focusing my research on systems and security. In my past life, I have worked on Datawarehousing, Web Application Development, and SysOps before moving to Academia and Research.  
+
 <!--
 **npankaj365/npankaj365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
